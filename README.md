@@ -8,7 +8,7 @@ The goal of this project is to use and compare different Machine Learning models
 
 **Task 3.** Evaluate a model performance using appropriate metrics to assess its accuracy and effectiveness.
 
-🔗 **Read the full [Project Summary Report](docs/project_summary.pdf) for a deep dive into our methodology and business insights.**
+🔗 **Read the full [Project Summary Report](docs/Project_summary.pdf) for a deep dive into our methodology and business insights.**
 
 ### Run the notebook
 
